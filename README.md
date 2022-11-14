@@ -8,10 +8,10 @@
 - 👯 I’m looking to collaborate on projects to use my skills **working as a team** 🎖️
 - 🤔 I’m ***looking for help*** with finding my niche within the Hi-Tech world 🤝🏽
 
->#### So now this year I am taking a Shabbaton from teaching to focus on this transition
+#### So now this year I am taking a Shabbaton from teaching to focus on this transition
 
   
-###**I am interested in**
+### ** I am interested in **
 
 >--**Hi-Tech Defense** 📡🚀🛰🛰🚀📡
 >
