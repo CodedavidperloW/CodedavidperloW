@@ -11,12 +11,13 @@
 >#### So now this year I am taking a Shabbaton from teaching to focus on this transition
 
   
-###I am interested in 
->--**Hi-Tech Defense** 📡🛰🛰🚀
+###**I am interested in**
+
+>--**Hi-Tech Defense** 📡🚀🛰🛰🚀📡
 >
 >https://user-images.githubusercontent.com/117815083/201623056-de93fda0-3d69-4a65-b09b-a3a6ad71293a.mp4
 >
->--**Green Tech** 🔋🌎🌎🔋
+>--**Green Tech** 🔋🌎☀️🌎🔋
 >-
 >**Looking for internship** to start in mid ***March 2022***.
 
