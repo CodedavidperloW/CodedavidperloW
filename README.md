@@ -10,7 +10,7 @@
 
 >#### So now this year I am taking a Shabbaton from teaching to focus on this transition
 
-  ![Drone, Airways](/Developers Insitute/Videos/mixkit-drone-in-the-sky-at-a-city-581-medium.mp4)
+  ![Drone, Airways](/D/Users/Perlow/Desktop/Developers Insitute/Videos/mixkit-drone-in-the-sky-at-a-city-581-medium.mp4)
 ###I am interested in 
 >--**Hi-Tech Defense** 📡🛰🛰🚀
 >--**Green Tech** 🔋🌎🌎🔋
