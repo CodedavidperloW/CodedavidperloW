@@ -19,7 +19,7 @@
 >
 >--**Green Tech** 🔋🌎☀️🌎🔋
 >
->-https://www.videezy.com/abstract/34622-aerial-view-of-solar-cell-farm
+https://www.videezy.com/abstract/34622-aerial-view-of-solar-cell-farm
 >
 >**Looking for internship** to start in mid ***March 2022***.
 
