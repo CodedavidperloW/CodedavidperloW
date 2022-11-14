@@ -18,8 +18,8 @@
 >https://user-images.githubusercontent.com/117815083/201623056-de93fda0-3d69-4a65-b09b-a3a6ad71293a.mp4
 >
 >--**Green Tech** 🔋🌎☀️🌎🔋
->
-><iframe width="560" height="315" src="https://www.youtube.com/embed/7FjRkk2ade0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>[![Like Biogas](https://theaustincommon.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-14-at-1.25.23-PM.png)(https://www.youtube.com/watch?v=7FjRkk2ade0)
+
 >
 >**Looking for internship** to start in mid ***March 2022***.
 
