@@ -10,7 +10,7 @@
 
 >#### So now this year I am taking a Shabbaton from teaching to focus on this transition
 
-  ![Drone, Airways](/D/Users/Perlow/Desktop/Developers Insitute/Videos/mixkit-drone-in-the-sky-at-a-city-581-medium.mp4)
+  
 ###I am interested in 
 >--**Hi-Tech Defense** 📡🛰🛰🚀
 >--**Green Tech** 🔋🌎🌎🔋
@@ -20,7 +20,11 @@
 
 
 <!--
-**CodedavidperloW/CodedavidperloW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodedavidperloW/CodedavidperloW** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap
+
+https://user-images.githubusercontent.com/117815083/201622792-3605b941-4e9b-49ae-95fc-00471253cc36.mp4
+
+pears on your GitHub profile.
 
 Here are some ideas to get you started:
 
