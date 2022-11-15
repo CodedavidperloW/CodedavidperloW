@@ -30,23 +30,10 @@
 
 >**Looking for internship** to start in mid ***March 2022***.
 
+>[![linkedin](https://user-images.githubusercontent.com/117815083/201875671-ddf6a4ea-75bc-4de9-88ec-d1373ce7c7e0.png)](https://www.linkedin.com/in/david-perlow-41b2b91aa/)
 
 
-<!--
-**CodedavidperloW/CodedavidperloW** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap
 
-https://user-images.githubusercontent.com/117815083/201622792-3605b941-4e9b-49ae-95fc-00471253cc36.mp4
 
-pears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on becoming a new developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
