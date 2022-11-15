@@ -1,15 +1,15 @@
-![David in Rosh Hanikra](https://user-images.githubusercontent.com/117815083/201884003-1c6865e6-7121-4531-a2f5-c09dbad9ba52.jpeg)
+![David Profile](https://user-images.githubusercontent.com/117815083/201887182-e85d6aa5-c484-4635-ada6-a2e0484eb450.jpg)
+
 # Hi there I'm David Perlow 
 > ###### What's up! 
 > After 9 years as a teacher I am taking the plunge into the world of `Hi-Tech`. It all started when the Corona pushed all of us teachers into the unfamiliar world of online teaching. Suddenly my curioisity in technology, computers and advancing myself led me to where I am today. So I am starting a new chapter in my life and that's what I've learned, don't be afraid to pull the trigger, even if it's small steps. 
 > 
 # About me:
-> -Married
-> -Father
+> - 💑 Married with three fun kiddies 🚸
 > - 👨🏻‍💼 Teacher: 9 Years Experience with all ages Awarded Breakthrough Teacher 2017 by Ministry of Education Israel 🏆
-> - 📘 Author: Not A Lone Soldier https://www.amazon.com/Not-Lone-Soldier-Journey-Defense/dp/B08FNMPBPX
+> - 📘 Author: Not A Lone Soldier https://www.amazon.com/Not-Lone-Soldier-Journey-Defense/dp/B08FNMPBPX   
 > - ⚡ Fun fact: I love electronic music and make a monthly mix. 🎧🎼🎼*🎧
->
+> 
 ### Goals for this year:
 - 🔭 I’m currently working on becoming a ***new developer*** 👨🏻‍💻
 - 🌱 I’m **currently learning** a bootcamp course through **Developers Institute focusing on Full-Stack Development**🧑‍💻
